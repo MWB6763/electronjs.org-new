@@ -8,7 +8,7 @@ authors:
 slug: electron-2-0
 ---
 
-After more than four months of development, eight beta releases, and worldwide
+After more than 4 months of development, 8 beta releases, and worldwide
 testing from many apps' staged rollouts, the release of Electron 2.0.0 is now
 available from [electronjs.org](https://electronjs.org/).
 
