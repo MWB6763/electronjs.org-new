@@ -8,7 +8,7 @@ authors:
 slug: electron-1-0
 ---
 
-For the last two years, Electron has helped developers build cross platform
+For the last 2 years, Electron has helped developers build cross platform
 desktop apps using HTML, CSS, and JavaScript. Now we're excited to share a major
 milestone for our framework and for the community that created it. The release
 of Electron 1.0 is now available from [electronjs.org][electronjs.org].
