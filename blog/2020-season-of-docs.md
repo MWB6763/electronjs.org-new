@@ -12,19 +12,19 @@ Electron is proud to be participating in the second edition of Google's Season o
 
 ---
 
-# What is Season of Docs?
+# What Is Season Of Docs?
 
-![Season of Docs logo](https://user-images.githubusercontent.com/16010076/82606204-8c8bce80-9b6b-11ea-9847-6a4b28a0761d.png)
+![Season Of Docs Logo](https://user-images.githubusercontent.com/16010076/82606204-8c8bce80-9b6b-11ea-9847-6a4b28a0761d.png)
 
-Season of Docs is a program that fosters collaboration between technical writers and open source communities to the benefit of both parties. Open source maintainers utilize the writer's technical writing expertise to improve the structure and content of their documentation, while the technical writer is introduced to an open-source community under the guidance of its mentors. Learn more about it on the Google's [Season of Docs website](https://developers.google.com/season-of-docs).
+Season Of Docs is a program that fosters collaboration between technical writers and open source communities to the benefit of both parties. Open source maintainers utilize the writer's technical writing expertise to improve the structure and content of their documentation, while the technical writer is introduced to an open-source community under the guidance of its mentors. Learn more about it on the Google's [Season Of Docs Website](https://developers.google.com/season-of-docs).
 
 For our first time participating in the program, we'll be mentoring a single technical writer who will be working alongside Electron's [Ecosystem Working Group](https://github.com/electron/governance/tree/master/wg-ecosystem) to reshape large parts of our documentation. You can learn more about the timeline of the whole project [here](https://developers.google.com/season-of-docs/docs/timeline).
 
-# How do I sign up?
+# How Do I Sign Up?
 
-Are you interested in collaborating with us as a technical writer? First, get familiar with Google's [tech writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide) for this year's program, and check out the two [project idea drafts](https://github.com/electron/season-of-docs-2020/blob/master/project-ideas.md) that we have prepared.
+Are you interested in collaborating with us as a technical writer? First, get familiar with Google's [tech writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide) for this year's program, and check out the 2 [project idea drafts](https://github.com/electron/season-of-docs-2020/blob/master/project-ideas.md) that we have prepared.
 
-In order to be selected as Electron's technical writer for Season of Docs, candidates will need to apply on the Google Season of Docs website during the Technical Writer Application phase that is running from June 8 to July 9..
+In order to be selected as Electron's technical writer for Season Of Docs, candidates will need to apply on the Google Season Of Docs Website during the Technical Writer Application phase that is running from June 8 to July 9..
 
 Your application should include a proposal, which is a written document that describes in detail what you plan to achieve on the Electron docs over the course of 3 months. This proposal can either develop on one of the starting points mentioned in our Project Idea doc, or can be something entirely new. Don't know where to start? You can check out last year's [list of accepted proposals](https://developers.google.com/season-of-docs/docs/2019/participants) for inspiration.
 
@@ -34,6 +34,6 @@ If you want to discuss project proposals, shoot us an email at [season-of-docs@e
 
 # References
 
-- [Electron documentation](https://www.electronjs.org/docs)
-- [Project ideas document](https://github.com/electron/season-of-docs-2020/blob/master/project-ideas.md)
-- [Season of Docs tech writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide)
+- [Electron Documentation](https://www.electronjs.org/docs)
+- [Project ideas Document](https://github.com/electron/season-of-docs-2020/blob/master/project-ideas.md)
+- [Season Of Docs Tech Writer Guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide)
