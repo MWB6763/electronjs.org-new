@@ -14,7 +14,7 @@ There have been some interesting updates and talks given on Electron recently, h
 
 ## Source
 
-Electron is now up to date with Chrome 45 as of `v0.32.0`. Other updates include...
+Electron is now up to date with Chrome 45 as of `V0.32.0`. Other updates include...
 
 ### Better Documentation
 
@@ -63,9 +63,9 @@ A patch by [@jaanus](https://github.com/jaanus) has been merged that, like the o
 Related pull request:
 [electron/electron#2776](https://github.com/electron/electron/pull/2776).
 
-### Google Summer of Code Printing Support
+### Google Summer Of Code Printing Support
 
-After the Google Summer of Code we have merged patches by [@hokein](https://github.com/hokein) to improve printing support, and add the ability to print the page into PDF files.
+After the Google Summer Of Code we have merged patches by [@hokein](https://github.com/hokein) to improve printing support, and add the ability to print the page into PDF files.
 
 Related issues:
 [electron/electron#2677](https://github.com/electron/electron/pull/2677),
@@ -83,22 +83,22 @@ Atom has now upgraded to Electron `v0.30.6` running Chrome 44. An upgrade to `v0
 
 GitHubber [Amy Palamountain](https://github.com/ammeep) gave a great introduction to Electron in a talk at [Nordic.js](https://nordicjs2015.confetti.events). She also created the [electron-accelerator](https://github.com/ammeep/electron-accelerator) library.
 
-#### Building native applications with Electron by Amy Palomountain
+#### Building Native Applications With Electron by Amy Palomountain
 
 <div className="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/OHOPSvTltPI" frameBorder="0" allowFullScreen></iframe></div>
 
 [Ben Ogle](https://github.com/benogle), also on the Atom team, gave an Electron talk at [YAPC Asia](http://yapcasia.org/2015/):
 
-#### Building Desktop Apps with Web Technologies by Ben Ogle
+#### Building Desktop Apps With Web Technologies by Ben Ogle
 
 <div className="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/WChjh5zaUdw" frameBorder="0" allowFullScreen></iframe></div>
 
 Atom team member [Kevin Sawicki](https://github.com/kevinsawicki) and others gave talks on Electron at the [Bay Are Electron User Group](http://www.meetup.com/Bay-Area-Electron-User-Group/) meetup recently. The [videos](http://www.wagonhq.com/blog/electron-meetup) have been posted, here are a couple:
 
-#### The History of Electron by Kevin Sawicki
+#### The History Of Electron by Kevin Sawicki
 
 <div className="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/tP8Yp1boQ9c" frameBorder="0" allowFullScreen></iframe></div>
 
-#### Making a web app feel native by Ben Gotow
+#### Making A Web App Feel Native by Ben Gotow
 
 <div className="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/JIRXVGVPzn8" frameBorder="0" allowFullScreen></iframe></div>
